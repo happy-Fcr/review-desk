@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1783823138718,
+      "tag": "0000_aberrant_iron_monger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1783823695291,
+      "tag": "0001_fancy_ironclad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1783868592405,
+      "tag": "0002_light_william_stryker",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794893497695,
+      "tag": "0003_blushing_fat_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794894739961,
+      "tag": "0004_fuzzy_squirrel_girl",
+      "breakpoints": true
+    }
+  ]
+}
